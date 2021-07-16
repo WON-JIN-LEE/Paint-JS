@@ -20,6 +20,7 @@ body {
 /* color */
 .controls {
   margin-top: 80px;
+  width: 500px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,6 +28,8 @@ body {
 
 .controls .controls__colors {
   display: flex;
+  width: 500px;
+  justify-content: space-around;
 }
 .controls__colors .controls__color {
   width: 50px;
