@@ -13,14 +13,10 @@
 3. PAINT 버튼 클릭 시 선으로 그리는 Paint 모드
 4. SAVE 버튼 클릭 시 Canvas 이미지를 다운로드 받는 기능
 
+### Paint Web [Click here](https://won-jin-lee.github.io/Paint-JS/)
+
 ### Screen Shot
 
 |                PAINT Mode                |                FILL Mode                |
 | :--------------------------------------: | :-------------------------------------: |
 | ![image description](imgs/PaintMode.png) | ![image description](imgs/FILLMode.png) |
-
----
-
-### Paint Web
-
-Click [here](https://won-jin-lee.github.io/Paint-JS/)
